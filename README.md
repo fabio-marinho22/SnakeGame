@@ -30,3 +30,18 @@ Para rodar este projeto, você precisará:
 
    ```bash
    git clone https://github.com/fabio-marinho22/SnakeGame.git
+
+   📂 Estrutura do Projeto
+/Snake: Diretório principal do projeto.
+/bin: Arquivos compilados do projeto.
+/obj: Arquivos temporários do projeto.
+/Snake: Código-fonte do jogo.
+Program.cs: Ponto de entrada do aplicativo.
+Game.cs: Lógica principal do jogo.
+Snake.cs: Implementação da lógica da cobra.
+Food.cs: Implementação da lógica da comida.
+🤝 Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões para melhorar o projeto ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+📜 Licença
+Este projeto está licenciado sob a Licença MIT.
