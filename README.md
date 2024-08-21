@@ -17,31 +17,6 @@ O Jogo da Cobrinha é um jogo simples e divertido onde o objetivo é controlar u
 - **Animações:** Animações para quando a cobra morre e para o crescimento da cobra.
 - **Restart do Jogo:** Reinicie o jogo após a cobra morrer.
 
-## 💻 Requisitos
-
-Para rodar este projeto, você precisará:
-
-- [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/) ou uma IDE compatível com C#
-- .NET Framework (ou .NET Core, dependendo da configuração do projeto)
-
-## 📦 Instalação
-
-1. Clone o repositório para o seu ambiente local:
-
-   ```bash
-   git clone https://github.com/fabio-marinho22/SnakeGame.git
-
-   📂 Estrutura do Projeto
-/Snake: Diretório principal do projeto.
-/bin: Arquivos compilados do projeto.
-/obj: Arquivos temporários do projeto.
-/Snake: Código-fonte do jogo.
-Program.cs: Ponto de entrada do aplicativo.
-Game.cs: Lógica principal do jogo.
-Snake.cs: Implementação da lógica da cobra.
-Food.cs: Implementação da lógica da comida.
-🤝 Contribuições
-Contribuições são bem-vindas! Se você tiver sugestões para melhorar o projeto ou encontrar algum problema, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 📜 Licença
 Este projeto está licenciado sob a Licença MIT.
